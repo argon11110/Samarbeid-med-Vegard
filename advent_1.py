@@ -16,3 +16,5 @@ for i in liste:
 nyliste.sort()
 print(maxsum)
 print(maxsum + nyliste[-2] + nyliste[-3])
+
+print("Veldig kort og presis kode")
